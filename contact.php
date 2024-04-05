@@ -116,11 +116,11 @@
             <div class="col-lg-6 ml-auto">
             <div id="form-container">
         <h3 id="form-heading" class="heading font-bold h2 mb-20 wow fadeInUp">Enquiry From</h3>
-        <form action="">
-            <input type="text" name="" id="user-name" placeholder="Full Name">
-            <input type="email" name="" id="user-email" placeholder="Email">
-            <input type="number" name="" id="user-number" placeholder="Phone">
-            <textarea name="" id="" cols="30" rows="5" placeholder="Message"></textarea>
+        <form action="email.php" method="post">
+            <input type="text" name="name" id="user-name" placeholder="Full Name">
+            <input type="email" name="email" id="user-email" placeholder="Email">
+            <input type="number" name="phone" id="user-number" placeholder="Phone">
+            <textarea name="message" id="" cols="30" rows="5" placeholder="Message"></textarea>
             <button type="submit">Sumbit</button>
         </form>
     </div>
