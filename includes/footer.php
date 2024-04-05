@@ -145,12 +145,12 @@
                         <p class="footer-text">
                             Subscribe to our newsletter for daily health tips
                         </p>
-                        <form class="search">
+                        <form class="search" action="email.php" method="post">
                             <!-- Search Form -->
                             <div class="input-group">
-                                <input type="text" class="form-control curved style-1" placeholder="Your Email Id" />
+                                <input type="email" class="form-control curved style-1" name="email" placeholder="Your Email Id" />
                                 <div class="input-group-append">
-                                    <button class="btn btn-primary curved" type="button">
+                                    <button class="btn btn-primary curved" type="submit">
                                         Send
                                     </button>
                                 </div>

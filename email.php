@@ -111,37 +111,42 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
 
 
-  // $message="$_POST[message]";
-
   // var_dump($message);
 
   $html = "  
     <table style='width: 100%;border: 2px solid black;border-collapse: collapse;'>
-    <tr style='width: 100%;border: 2px solid black;'>
-    <th style='width: 20%;border: 2px solid black;'>Enter your Name</th>
-    <th style='width: 20%;border: 2px solid black;'>Enter your Email</th>
-    <th style='width: 20%;border: 2px solid black;'>Enter your Mobile Number</th>
-    <th style='width: 20%;border: 2px solid black;'>Enter your City</th>
-    <th style='width: 20%;border: 2px solid black;'>Enter your Message</th>
-    
+    <tr style='width: 100%;border: 2px solid black;'>";
+  if (!empty($name)) {
+    $html .= "     <th style='width: 20%;border: 2px solid black;'>Enter your Name</th>";
+  }
+  if (!empty($email)) {
+    $html .= "      <th style='width: 20%;border: 2px solid black;'>Enter your Email</th>";
+  }
+  if (!empty($phone)) {
+    $html .= "      <th style='width: 20%;border: 2px solid black;'>Enter your Mobile Number</th>";
+  }
+  if (!empty($message)) {
+    $html .= "      <th style='width: 20%;border: 2px solid black;'>Enter your Message</th>";
+  }
+
+  $html .= "    
     </tr>
     <tr style='width: 100%;border: 2px solid black;'>";
   if (!empty($name)) {
-    $html .= "     <th style='width: 20%;border: 2px solid black;'>".$name."</th>";
+    $html .= "     <th style='width: 20%;border: 2px solid black;'>" . $name . "</th>";
   }
   if (!empty($email)) {
-    $html .= "     <th style='width: 20%;border: 2px solid black;'>".$email."</th>";
+    $html .= "     <th style='width: 20%;border: 2px solid black;'>" . $email . "</th>";
   }
   if (!empty($phone)) {
-    $html .= "     <th style='width: 20%;border: 2px solid black;'>".$phone."</th>";
+    $html .= "     <th style='width: 20%;border: 2px solid black;'>" . $phone . "</th>";
   }
   if (!empty($message)) {
-    $html .= "     <th style='width: 20%;border: 2px solid black;'>".$message."</th>";
+    $html .= "     <th style='width: 20%;border: 2px solid black;'>" . $message . "</th>";
   }
   $html .= "         </tr>
             </table>";
 
-  // $msgHtml = "$name $experience $contact $email $message";
 
   //            $curl = curl_init();
   //     curl_setopt_array($curl, array(
@@ -170,7 +175,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 if (isset($_SESSION['redirection'])) {
   echo '';
 } else {
-  header("Location:https://cinemaonstage.com");
+  header("Location:https://pearlfertilityandivf.com/demo");
 }
 
 //Replace the plain text body with one created manually
@@ -229,7 +234,7 @@ if (!$mail->send()) {
   $('body').click(function() {
 
 
-    // window.location = "https://cinemaonstage.com";
+    window.location = "https://pearlfertilityandivf.com/demo";
 
   });
 </script>
