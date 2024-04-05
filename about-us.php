@@ -90,49 +90,6 @@
     </div>
     <!-- Comprehensive Support Services -->
 <!-- About us content -->
-<div class="container pt-80">
-
-
-<p>Established in 2017, Pearl Fertility and IVF has been at the forefront of providing comprehensive fertility solutions, offering hope and realizing dreams for couples struggling with infertility. With our state-of-the-art facilities, cutting-edge technology, and a team of highly experienced fertility specialists, we are committed to guiding our patients through every step of their journey towards parenthood.
-    </p>
-    <h4 class="heading font-bold">
-        Our Mission
-    </h4>
-<p>
-    
-At Pearl Fertility and IVF, our mission is to provide compassionate, personalized care to every individual or couple who walks through our doors. We understand the emotional and physical challenges that accompany infertility, and our dedicated team is here to provide unwavering support, guidance, and expertise throughout the entire fertility treatment process.
-</p>
-<h4 class="heading font-bold">
-        Our Approach
-    </h4>
-<p>
-We believe in a personalized approach to fertility treatment, recognizing that every individual or couple's journey is unique. Our team of fertility specialists works closely with each patient to develop customized treatment plans tailored to their specific needs, preferences, and goals. From initial consultations and diagnostic testing to advanced reproductive technologies such as in vitro fertilization (IVF), intrauterine insemination (IUI), and egg freezing, we offer a comprehensive range of fertility services designed to maximize success while minimizing stress.
-
-</p><h4 class="heading font-bold">
-        State-of-the-Art Facilities
-    </h4>
-<p>
-Our IVF Centre is equipped with the latest advancements in reproductive technology, ensuring that our patients have access to the most innovative and effective treatments available. Our modern facilities provide a comfortable and supportive environment for patients undergoing fertility treatment, with amenities designed to enhance the overall experience.
-</p>
-<h4 class="heading font-bold">
-        Experienced and Compassionate Team
-    </h4>
-<p>
-At Pearl Fertility and IVF, our team of fertility specialists is comprised of highly trained and experienced professionals who are dedicated to helping our patients achieve their dreams of parenthood. With expertise in reproductive endocrinology, embryology, andrology, and fertility nursing, our team works collaboratively to deliver the highest standard of care with compassion and empathy.
-</p><h4 class="heading font-bold">
-        Comprehensive Support Services
-    </h4>
-<p>
-    
-We understand that the journey towards parenthood can be emotionally challenging, which is why we offer a range of support services to our patients. From counseling and support groups to financial assistance and fertility preservation options, we are committed to ensuring that our patients feel supported every step of the way.
-</p><h4 class="heading font-bold">
-        Schedule Your Consultation Today
-    </h4>
-<p>
-    
-If you're struggling with infertility and exploring your options for fertility treatment, we invite you to schedule a consultation with our team at Pearl Fertility and IVF. Together, we can explore your options, address your concerns, and develop a personalized treatment plan that brings you one step closer to realizing your dreams of parenthood. Contact us today to take the first step on your journey towards a brighter future.</p>
-</div>
-
     <!-- --------------Who we are section------------- -->
     <div class="container mt-80">
         <div class="row justify-content-center">
@@ -326,6 +283,51 @@ If you're struggling with infertility and exploring your options for fertility t
             </div>
         </div>
     </div>
+
+
+
+
+    <div class="container pt-80">
+
+
+<p>Established in 2017, Pearl Fertility and IVF has been at the forefront of providing comprehensive fertility solutions, offering hope and realizing dreams for couples struggling with infertility. With our state-of-the-art facilities, cutting-edge technology, and a team of highly experienced fertility specialists, we are committed to guiding our patients through every step of their journey towards parenthood.
+    </p>
+    <h4 class="heading font-bold">
+        Our Mission
+    </h4>
+<p>
+    At Pearl Fertility and IVF, our mission is to provide compassionate, personalized care to every individual or couple who walks through our doors. We understand the emotional and physical challenges that accompany infertility, and our dedicated team is here to provide unwavering support, guidance, and expertise throughout the entire fertility treatment process.
+</p>
+<h4 class="heading font-bold">
+        Our Approach
+    </h4>
+<p>
+    We believe in a personalized approach to fertility treatment, recognizing that every individual or couple's journey is unique. Our team of fertility specialists works closely with each patient to develop customized treatment plans tailored to their specific needs, preferences, and goals. From initial consultations and diagnostic testing to advanced reproductive technologies such as in vitro fertilization (IVF), intrauterine insemination (IUI), and egg freezing, we offer a comprehensive range of fertility services designed to maximize success while minimizing stress.
+</p>
+<h4 class="heading font-bold">
+    State-of-the-Art Facilities
+</h4>
+<p>
+    Our IVF Centre is equipped with the latest advancements in reproductive technology, ensuring that our patients have access to the most innovative and effective treatments available. Our modern facilities provide a comfortable and supportive environment for patients undergoing fertility treatment, with amenities designed to enhance the overall experience.
+</p>
+<h4 class="heading font-bold">
+        Experienced and Compassionate Team
+</h4>
+<p>
+    At Pearl Fertility and IVF, our team of fertility specialists is comprised of highly trained and experienced professionals who are dedicated to helping our patients achieve their dreams of parenthood. With expertise in reproductive endocrinology, embryology, andrology, and fertility nursing, our team works collaboratively to deliver the highest standard of care with compassion and empathy.
+</p><h4 class="heading font-bold">
+        Comprehensive Support Services
+    </h4>
+<p>
+    We understand that the journey towards parenthood can be emotionally challenging, which is why we offer a range of support services to our patients. From counseling and support groups to financial assistance and fertility preservation options, we are committed to ensuring that our patients feel supported every step of the way.
+</p><h4 class="heading font-bold">
+        Schedule Your Consultation Today
+    </h4>
+<p>
+    If you're struggling with infertility and exploring your options for fertility treatment, we invite you to schedule a consultation with our team at Pearl Fertility and IVF. Together, we can explore your options, address your concerns, and develop a personalized treatment plan that brings you one step closer to realizing your dreams of parenthood. Contact us today to take the first step on your journey towards a brighter future.</p>
+</div>
+
+
 
     <!--  ----------------------testimonial----------A.A-- -->
     <div class="pt-80 pb-80 mt-80 wow fadeInUp" style="background-image: url(images/200-200-1.jpg);">

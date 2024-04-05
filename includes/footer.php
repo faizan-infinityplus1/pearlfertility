@@ -79,6 +79,11 @@
                                 <a class="youtube" href="https://www.youtube.com/@pearlfertilityandivf"><i class="ion-logo-youtube"></i></a>
                             </li>
                             <li>
+                                <a class="youtube" href="https://twitter.com/i/flow/login?redirect_after_login=%2Ffertility_pearl"><i class="fa-brands fa-x-twitter"></i></a>
+                            </li>
+
+                            
+                            <li>
                                 <a class="facebook" href="https://www.instagram.com/pearlfertilityandivf/"><i class="ion-logo-instagram"></i></a>
                             </li>
                         </ul>
