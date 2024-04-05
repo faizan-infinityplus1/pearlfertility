@@ -1,0 +1,354 @@
+/* Medium Layout: 1200px. */
+
+@media only screen and (max-height: 620px) {
+  .home-slider-area.style-02 .slider-items .slider-items-wrap {
+    padding-top: 8%;
+  }
+  .home-slider-area.style-04 .slider-social-icon-wrap {
+    top: 20%;
+  }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1025px) {
+  .home-slider-area__bottom-area .slider-bottom-inner {
+    transform: translateY(-35%);
+  }
+
+  .home-slider-area .carousel-dots-area .carousel-dots {
+    top: 30%;
+  }
+  .home-slider-area.style-02 .carousel-dots-area .carousel-dots {
+    top: 60%;
+  }
+  /* .home-slider-area .slider-items .slider-content .slider-title .heading-01 {
+    color: black;
+    }
+    .home-slider-area.style-02 .slider-items .slider-content .slider-paragraph {
+color: black;
+} */
+}
+
+/* Tablet Layout: 768px. */
+
+/* Tablet Layout: 991px. */
+@media only screen and (max-width: 991px) {
+  .home-slider-area.style-04
+    .home-slider-area__bottom-area
+    .slider-bottom-inner {
+    display: none;
+  }
+  .home-slider-area.style-04 .slider-items {
+    height: 100vh;
+  }
+  header.style-04 .h4-header-inner {
+    padding-top: 0;
+    height: 70px;
+  }
+  .home-slider-area.style-03
+    .home-slider-area__bottom-area
+    .social-media-name
+    .social-media-inner {
+    width: 100%;
+  }
+  .home-slider-area.style-03
+    .slider-right
+    .slider-content
+    .slider-content-inner {
+    width: 75vw;
+    left: 10%;
+  }
+  .our-service {
+    width: 100%;
+  }
+  .latest-news.style-02 .latest-news-slider-items .cards .cards-body {
+    background-color: #ffffff;
+    padding: 10px;
+  }
+  .latest-news-slider-items .cards .cards-body .name-date {
+    flex-wrap: wrap;
+  }
+  .home-slider-area__bottom-area .slider-bottom-inner {
+    transform: translateY(0);
+  }
+  .home-testimonial-section,
+  .pricing-plan-inner,
+  .latest-news-slider-items .cards .cards-body .name-date .author-name,
+  .latest-news-slider-items .cards .cards-body .name-date .publish-date {
+    width: 100%;
+  }
+  .latest-news-slider-items .cards .cards-body .name-date .author-name {
+    display: initial;
+  }
+  .banner-auto-car .banner-right-content {
+    justify-content: center;
+    padding-bottom: 50px;
+  }
+  .service-items-wrap__items {
+    width: 50%;
+  }
+  .navbar-area .nav-container .navbar-collapse .navbar-nav > li {
+    color: #181818;
+  }
+  .home-slider-area .carousel-dots-area .carousel-dots {
+    top: 70%;
+  }
+  .h2-service-section.padding-120 {
+    padding-bottom: 85px;
+  }
+  .slider-content-inner {
+    width: 75vw;
+    position: relative;
+    z-index: 9;
+  }
+  .home-slider-area.style-04 .slider-content-inner {
+    width: 55vw;
+  }
+  .home-02_tab-section .tab-wrapper {
+    width: 100%;
+  }
+
+  .home-slider-area.style-02 .slider-items .slider-items-wrap {
+    position: relative;
+    width: 100%;
+    z-index: 0;
+  }
+  .home-slider-area.style-02 .slider-items::after {
+    content: "";
+    width: 100%;
+    height: 100%;
+    background-color: rgba(224, 229, 233, 0.9);
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+  }
+  .home-slider-area.style-02 .slider-items .slider-items-wrap::after {
+    content: "";
+    display: block;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: rgba(224, 229, 233, 0.8);
+    z-index: 0;
+  }
+  .home-slider-area.style-02 .slider-items .slider-content-bottom {
+    position: relative;
+    z-index: 9;
+  }
+  /* .home-slider-area .slider-items .slider-content .slider-title .heading-01 {
+    color: black;
+    }
+    .home-slider-area.style-02 .slider-items .slider-content .slider-paragraph {
+      color: black;
+      } */
+}
+
+/* Tablet Layout wide: 768px. */
+
+@media only screen and (max-width: 767px) {
+  .grid-list-column-item.list-view,
+  .home-slider-area .slider-items .slider-content .slider-paragraph {
+    width: 100%;
+  }
+
+  .home-slider-area.style-02 .carousel-dots-area .carousel-dots,
+  .home-slider-area.style-02 .slider-items .slider-content-bottom,
+  header .left-content,
+  .home-slider-area.style-03 .slider-left,
+  .home-slider-area.style-03 .home-slider-area__bottom-area .arrow-down-wrap {
+    display: none;
+  }
+  .home-slider-area.style-02 .slider-items .slider-inner {
+    height: 100%;
+  }
+  /* .home-slider-area .slider-items .slider-content .slider-title .heading-01 {
+    color: black;
+    } */
+}
+
+@media only screen and (max-width: 570px) {
+  .home-slider-area .slider-items .container {
+    padding: 0 15px;
+  }
+  /* .home-slider-area .slider-items .slider-content .slider-title .heading-01 {
+    color: black;
+    }
+    .home-slider-area.style-02 .slider-items .slider-content .slider-paragraph {
+      color: black;
+      } */
+
+  .slider-content-inner {
+    padding-left: 10px;
+  }
+}
+
+@media only screen and (max-width: 450px) {
+  .home-slider-area.style-02 .slider-items .slider-img {
+    position: absolute;
+    width: 100%;
+  }
+  .slider-content-inner {
+    width: 82vw;
+  }
+
+  .home-slider-area .slider-items .slider-content .slider-title .heading-01,
+  .slider-items
+    .slider-content
+    .slider-title-bold
+    .heading-01
+    .slider-right
+    .slider-content
+    .slider-content-inner
+    .slider-title
+    .heading-01,
+  .breadcrumb-area .page-title,
+  .heading .heading-01 {
+    font-size: 38px;
+    line-height: 50px;
+  }
+  .email-head {
+    font-size: 1rem;
+  }
+  .no-head {
+    font-size: 1rem;
+  }
+  .h1-head {
+    padding-left: 10px;
+  }
+  .title-head {
+    padding-left: 10px;
+  }
+  .p-head {
+    padding-left: 10px;
+  }
+  .main-btn {
+    margin: 10px;
+  }
+  /* .home-slider-area .slider-items .slider-content .slider-title .heading-01 {
+color: black;
+}
+.home-slider-area.style-02 .slider-items .slider-content .slider-paragraph {
+  color: black;
+  } */
+}
+
+/* mobile tablet layout 385px */
+
+/* =====================New Section Start here===============  */
+
+@media only screen and (min-width: 992px) and (max-width: 1440px) {
+  .our-process-section.style-02 {
+    /* min-height: 1000px; */
+  }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1201px) {
+  .our-process-section__work-items {
+    padding-right: 0;
+  }
+
+  .our-process-section__work-items {
+    padding-right: 0;
+  }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1025px) {
+  .home-slider-area__bottom-area .slider-bottom-inner {
+    transform: translateY(-35%);
+  }
+  .featured-vehicles-section
+    .vehicle-slider-active
+    .slick-slide.slick-current.slick-active.slick-center
+    .h2-vehicle-slider-items
+    .items-body,
+  .h2-vehicle-slider-items:hover .items-body {
+    transform: translateY(-20%);
+  }
+  .grid-list-column-item .main-btn-wrap .main-btn {
+    min-width: 150px;
+  }
+  .latest-news.style-02::after {
+    bottom: 39.5%;
+  }
+  .footer-area.style-02 .footer-subscribe-area {
+    padding: 0 60px 50px 60px;
+  }
+  .home-slider-area .carousel-dots-area .carousel-dots {
+    top: 30%;
+  }
+  .home-slider-area.style-02 .carousel-dots-area .carousel-dots {
+    top: 40%;
+  }
+  .home-slider-area.style-05
+    .home-slider-area__bottom-area
+    .slider-bottom-inner {
+    justify-content: space-between;
+  }
+  .home-slider-area.style-05
+    .home-slider-area__bottom-area
+    .slider-bottom-inner
+    .pick-up-items {
+    margin-bottom: 10px;
+  }
+  .home-slider-area.style-05 .home-slider-area__bottom-area .main-btn-wrap {
+    width: 35%;
+    margin-top: 10px;
+  }
+  .home-slider-area.style-05 .home-slider-area__bottom-area {
+    top: 72%;
+  }
+  .most-popular-cars .tab-slider-left {
+    width: 40%;
+  }
+  .most-popular-cars .tab-slider-right {
+    width: 60%;
+  }
+  .banner__body__title {
+    font-size: 100px;
+  }
+}
+
+/* Tablet Layout: 991px. */
+@media only screen and (max-width: 991px) {
+  .our-process-section__work-items {
+    padding-right: 0;
+  }
+
+  .our-process-section.style-02 {
+    position: relative;
+    z-index: 0;
+  }
+  .our-process-section.style-02::after {
+    content: "";
+    display: block;
+    /* background-color: rgba(224, 229, 233, 0.95); */
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .our-process-section.style-02 {
+    padding-bottom: 20px;
+  }
+  .home-2-car-adds-items {
+    padding-top: 30px;
+  }
+  .our-process-section.style-02::after {
+    height: 100%;
+  }
+}
+
+@media all and (min-width: 1650px) {
+  .container {
+    max-width: 1640px;
+  }
+}
+
+/* =====================New Section End here===============  */
