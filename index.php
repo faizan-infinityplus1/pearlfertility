@@ -803,7 +803,7 @@
 
   <!----------------------- Banner-part------A.A  -->
   <div class="pt-50 pb-50 mt-80" style="
-        background-image: url(images/1920-534-1.jpg);
+        background-image: url(_images/banner-background-img.jpeg);
         background-size: cover;
         background-position: center center;
       ">
@@ -813,18 +813,18 @@
           <!-- <a href="book-appointment-form.html" class="btn btn-primary btn-lg">Fix Appointment</a> -->
         </div>
         <div class="col-lg-8  pr-40  wow fadeInLeft">
-        <h3 class="heading font-bold text-lh-4 text-primary pb-4 wow fadeInLeft">We Offer Wide Range Of Services At Pearl Fertility And IVF</h2>
+        <h3 class="heading font-bold text-lh-4 pb-4 wow fadeInLeft" style="color:black;">We Offer Wide Range Of Services At Pearl Fertility And IVF</h2>
 
           <p class=" h5   d-flex align-items-center">
-            <i class="ion-medal-outline text-primary mr-20"></i>
+            <i class="ion-medal-outline mr-20" style="font-weight:300; font-size:35px;"></i>
             With You at Every Step.
           </p>
           <p class=" h5  d-flex align-items-center mb-20">
-            <i class="mw-baby text-primary mr-20"></i>
+            <i class="mw-baby mr-20" style="font-weight:800; font-size:35px;"></i>
             Plan your family with bright future
           </p>
           <p class=" h5 d-flex align-items-center mb-20">
-            <i class="mw-care text-primary mr-20"></i>
+            <i class="mw-care mr-20" style="font-weight:800; font-size:35px;"></i>
             Providing care for future family
           </p>
           <a href="book-appointment.php" class="btn btn-primary btn-lg ml-40">Fix Appointment</a>
@@ -880,7 +880,7 @@
         </div>
       </div>
     </div>
-    <div class="row mt-0 wow fadeInUp">
+    <!-- <div class="row mt-0 wow fadeInUp">
       <div class="col-lg-12">
         <div class="flexible-slider" data-items="2" data-items-992="2" data-items-768="1" data-arrows="true" data-dots="true">
           <div class="slider-items">
@@ -896,9 +896,6 @@
                   <div class="testi-name">
                     <h6 class="heading font-bold font-2 text-white">
                       SNEHA BHIWANDKAR</h6>
-                    <!-- <p class="text-muted small mb-0 text-lh-1">
-                        Turku, Finland
-                      </p> -->
                   </div>
                 </div>
               </div>
@@ -915,10 +912,6 @@
                   <div class="testi-name">
                     <h6 class="heading font-bold font-2 text-white">
                       SHOBA GOSWAMI</h6>
-                    <!-- <i class="star-outline"></i> -->
-                    <!-- <p class="text-muted small mb-0 text-lh-1">
-                        Turku, Finland
-                      </p> -->
                   </div>
                 </div>
               </div>
@@ -935,9 +928,6 @@
                   <div class="testi-name">
                     <h6 class="heading font-bold font-2 text-white">
                       CHANCHALA KAMBLE</h6>
-                    <!-- <p class="text-muted small mb-0 text-lh-1">
-                        Turku, Finland
-                      </p> -->
                   </div>
                 </div>
               </div>
@@ -959,7 +949,134 @@
           </div>
         </div>
       </div>
-    </div>
+    </div> -->
+
+    <div class="col-12 swiper-container swiper-container-nobe" style="background-color:red">
+          <div class="swiper-wrapper">
+            <div class="swiper-slide">
+              <div class="container-flude">
+                <div class="row">
+                  <div class="col">
+                    <div class="card p-3 review-card" style="max-width: 400px;">
+                      <div class="d-flex m-2 col-12">
+                        <img style="width: 50px; height:50px;" src="https://www.goticketspro.com/wp-content/uploads/2024/02/ChIJyT3o3nLTQIYRuXsWN3R8UjY_a5734c7808ae2c5bfedaed6c9b9d930c.jpg" class="card-img-top" alt="img">
+                        <div class="m-2">
+                          <h5 style="font-size: 13px;" class="card-title">fatima Fatima</h5>
+                          <p class="card-text">2 months ago</p>
+                        </div>
+                        
+                      </div>
+                      <div class="card-body">
+                        <p style="color: #fb8e28; font-size: 20px;" class="card-text">★★★★☆</p>
+                        <div class="card-review-container">
+                          <p class="card-text">Must watch . Enthralling  performances by every character. Looked like live Moghle Azam for 3 hours</p>
+                        </div>
+                      </div>
+                      <div class="google-svg">
+                        <svg viewBox="0 0 512 512" height="18" width="18"><g fill="none" fill-rule="evenodd"><path d="M482.56 261.36c0-16.73-1.5-32.83-4.29-48.27H256v91.29h127.01c-5.47 29.5-22.1 54.49-47.09 71.23v59.21h76.27c44.63-41.09 70.37-101.59 70.37-173.46z" fill="#4285f4"></path><path d="M256 492c63.72 0 117.14-21.13 156.19-57.18l-76.27-59.21c-21.13 14.16-48.17 22.53-79.92 22.53-61.47 0-113.49-41.51-132.05-97.3H45.1v61.15c38.83 77.13 118.64 130.01 210.9 130.01z" fill="#34a853"></path><path d="M123.95 300.84c-4.72-14.16-7.4-29.29-7.4-44.84s2.68-30.68 7.4-44.84V150.01H45.1C29.12 181.87 20 217.92 20 256c0 38.08 9.12 74.13 25.1 105.99l78.85-61.15z" fill="#fbbc05"></path><path d="M256 113.86c34.65 0 65.76 11.91 90.22 35.29l67.69-67.69C373.03 43.39 319.61 20 256 20c-92.25 0-172.07 52.89-210.9 130.01l78.85 61.15c18.56-55.78 70.59-97.3 132.05-97.3z" fill="#ea4335"></path><path d="M20 20h472v472H20V20z"></path></g></svg>
+          
+                          <!-- <img style="width: 20px;position: relative;left: 50px;" src="assets/img/google.png" alt="img"> -->
+                        </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="container-flude">
+                <div class="row">
+                  <div class="col">
+                    <div class="card p-3 review-card" style="max-width: 400px;">
+                      <div class="d-flex m- ">
+                        <img style="width: 50px; height:50px;" src="https://www.goticketspro.com/wp-content/uploads/2024/02/ChIJyT3o3nLTQIYRuXsWN3R8UjY_998c7892fdefbe10ac9f3723ae97d5a4.jpg" class="card-img-top" alt="img">
+                        <div class="m-2">
+                          <h5 style="font-size: 13px;" class="card-title">Shalmali Zankar</h5>
+                          <p class="card-text">6 months ago</p>
+                        </div>
+                        
+                      </div>
+                      <div class="card-body">
+                        <p style="color: #fb8e28; font-size: 20px;" class="card-text">★★★★☆</p>
+                        <div class="card-review-container">
+                          <p class="card-text">hospitality, such a personal touch in each and every small detail. All our gratitude and love to you guys!</p>
+                        </div>
+                      </div>
+                      <div class="google-svg">
+                        <svg viewBox="0 0 512 512" height="18" width="18"><g fill="none" fill-rule="evenodd"><path d="M482.56 261.36c0-16.73-1.5-32.83-4.29-48.27H256v91.29h127.01c-5.47 29.5-22.1 54.49-47.09 71.23v59.21h76.27c44.63-41.09 70.37-101.59 70.37-173.46z" fill="#4285f4"></path><path d="M256 492c63.72 0 117.14-21.13 156.19-57.18l-76.27-59.21c-21.13 14.16-48.17 22.53-79.92 22.53-61.47 0-113.49-41.51-132.05-97.3H45.1v61.15c38.83 77.13 118.64 130.01 210.9 130.01z" fill="#34a853"></path><path d="M123.95 300.84c-4.72-14.16-7.4-29.29-7.4-44.84s2.68-30.68 7.4-44.84V150.01H45.1C29.12 181.87 20 217.92 20 256c0 38.08 9.12 74.13 25.1 105.99l78.85-61.15z" fill="#fbbc05"></path><path d="M256 113.86c34.65 0 65.76 11.91 90.22 35.29l67.69-67.69C373.03 43.39 319.61 20 256 20c-92.25 0-172.07 52.89-210.9 130.01l78.85 61.15c18.56-55.78 70.59-97.3 132.05-97.3z" fill="#ea4335"></path><path d="M20 20h472v472H20V20z"></path></g></svg>
+          
+                          <!-- <img style="width: 20px;position: relative;left: 50px;" src="assets/img/google.png" alt="img"> -->
+                        </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="container-flude">
+                <div class="row">
+                  <div class="col">
+                    <div class="card p-3 review-card" style="max-width: 400px;">
+                      <div class="d-flex m- ">
+                        <img style="width: 50px; height:50px;" src="https://www.goticketspro.com/wp-content/uploads/2024/02/ChIJyT3o3nLTQIYRuXsWN3R8UjY_e8dd98b5399bd0a48fb3b06c670d1658.jpg" class="card-img-top" alt="img">
+                        <div class="m-2">
+                          <h5 style="font-size: 13px;" class="card-title">Pooja Kothari</h5>
+                          <p class="card-text">6 months ago</p>
+                        </div>
+                      </div>
+                      <div class="card-body">
+                        <p style="color: #fb8e28; font-size: 20px;" class="card-text">★★★★☆</p>
+                        <div class="card-review-container-container">
+                          <p class="card-text">Excellent, extraordinary.</p>
+                        </div>
+                      </div>
+                      <div class="google-svg">
+                        <svg viewBox="0 0 512 512" height="18" width="18"><g fill="none" fill-rule="evenodd"><path d="M482.56 261.36c0-16.73-1.5-32.83-4.29-48.27H256v91.29h127.01c-5.47 29.5-22.1 54.49-47.09 71.23v59.21h76.27c44.63-41.09 70.37-101.59 70.37-173.46z" fill="#4285f4"></path><path d="M256 492c63.72 0 117.14-21.13 156.19-57.18l-76.27-59.21c-21.13 14.16-48.17 22.53-79.92 22.53-61.47 0-113.49-41.51-132.05-97.3H45.1v61.15c38.83 77.13 118.64 130.01 210.9 130.01z" fill="#34a853"></path><path d="M123.95 300.84c-4.72-14.16-7.4-29.29-7.4-44.84s2.68-30.68 7.4-44.84V150.01H45.1C29.12 181.87 20 217.92 20 256c0 38.08 9.12 74.13 25.1 105.99l78.85-61.15z" fill="#fbbc05"></path><path d="M256 113.86c34.65 0 65.76 11.91 90.22 35.29l67.69-67.69C373.03 43.39 319.61 20 256 20c-92.25 0-172.07 52.89-210.9 130.01l78.85 61.15c18.56-55.78 70.59-97.3 132.05-97.3z" fill="#ea4335"></path><path d="M20 20h472v472H20V20z"></path></g></svg>
+          
+                          <!-- <img style="width: 20px;position: relative;left: 50px;" src="assets/img/google.png" alt="img"> -->
+                        </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="container-flude">
+                <div class="row">
+                  <div class="col">
+                    <div class="card p-3 review-card" style="max-width: 400px;">
+                      <div class="d-flex m- ">
+                        <img style="width: 50px; height:50px;" src="https://www.goticketspro.com/wp-content/uploads/2024/02/ChIJyT3o3nLTQIYRuXsWN3R8UjY_cbb079ad8a192fa013a99795c788ecc3.jpg" class="card-img-top" alt="img">
+                        <div class="m-2">
+                          <h5 style="font-size: 13px;" class="card-title">Vijay Yadav</h5>
+                          <p class="card-text">7 months ago</p>
+                        </div>
+                      </div>
+                      <div class="card-body">
+                        <p style="color: #fb8e28; font-size: 20px;" class="card-text">★★★★☆</p>
+                        <div class="card-review-container">
+                          <p class="card-text">Beautiful production. Choreography evokes striking images from.</p>
+                        </div>
+                      </div>
+                      <div class="google-svg">
+                        <svg viewBox="0 0 512 512" height="18" width="18"><g fill="none" fill-rule="evenodd"><path d="M482.56 261.36c0-16.73-1.5-32.83-4.29-48.27H256v91.29h127.01c-5.47 29.5-22.1 54.49-47.09 71.23v59.21h76.27c44.63-41.09 70.37-101.59 70.37-173.46z" fill="#4285f4"></path><path d="M256 492c63.72 0 117.14-21.13 156.19-57.18l-76.27-59.21c-21.13 14.16-48.17 22.53-79.92 22.53-61.47 0-113.49-41.51-132.05-97.3H45.1v61.15c38.83 77.13 118.64 130.01 210.9 130.01z" fill="#34a853"></path><path d="M123.95 300.84c-4.72-14.16-7.4-29.29-7.4-44.84s2.68-30.68 7.4-44.84V150.01H45.1C29.12 181.87 20 217.92 20 256c0 38.08 9.12 74.13 25.1 105.99l78.85-61.15z" fill="#fbbc05"></path><path d="M256 113.86c34.65 0 65.76 11.91 90.22 35.29l67.69-67.69C373.03 43.39 319.61 20 256 20c-92.25 0-172.07 52.89-210.9 130.01l78.85 61.15c18.56-55.78 70.59-97.3 132.05-97.3z" fill="#ea4335"></path><path d="M20 20h472v472H20V20z"></path></g></svg>
+          
+                          <!-- <img style="width: 20px;position: relative;left: 50px;" src="assets/img/google.png" alt="img"> -->
+                        </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+          </div>
+
+          <!-- <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button> -->
+          <div style="color:#000" class="swiper-button-prev"></div>
+          <div style="color:#000" class="swiper-button-next rotate-180"></div>
+        </div>
   </div>
 
 
@@ -1165,7 +1282,18 @@
 
 
   <!-- Image gallery  -->
-  <section id="img-gallery " style="margin-top: 110px;">
+
+  <div class="container mt-80">
+    <div class="row justify-content-center">
+      <div class="col-lg-8">
+        <div class="heading-block">
+          <h3 class="heading font-bold text-lh-4 text-primary pb-4 wow fadeInLeft">Nutrition And Health Services</h3>
+          <!-- <p class="sub-heading">There live the blind texts separated they right at the coast of the Semantics.</p> -->
+        </div>
+      </div>
+    </div>
+  </div>
+  <section id="img-gallery ">
     <div class="container">
       <div class="row">
 

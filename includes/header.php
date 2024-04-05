@@ -62,11 +62,11 @@
       <div class="navbar-collapse collapse" id="main-navigation">
         <!-- Main Menu -->
         <ul class="navbar-nav">
-          <li class="nav-item has-menu">
+          <li class="nav-item">
             <a href="index">Home</a>
 
           </li>
-          <li class="nav-item has-menu">
+          <li class="nav-item">
             <a href="about-us">About Us</a>
 
           </li>
@@ -239,7 +239,7 @@
               </div>
             </div>
           </li>
-          <li class="nav-item has-menu">
+          <li class="nav-item">
             <a href="doctor">OUR DOCTORS</a>
 
           </li>
@@ -254,13 +254,13 @@
                             </ul>
                         </div>
                     </li> -->
-          <li class="nav-item has-menu">
+          <li class="nav-item">
             <a href="https://pearlfertilityandivf.com/blog/">Blog</a>
 
           </li>
-          <li class="nav-item has-menu">
+          <li class="nav-item">
             <a href="faqs">FAQ</a>
-          <li class="nav-item has-menu">
+          <li class="nav-item">
             <a href="contact">Contact</a>
             <!-- <div class="sub-menu"> -->
             <!-- Sub Menu -->
