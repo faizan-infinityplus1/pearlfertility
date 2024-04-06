@@ -90,54 +90,71 @@
             </div>
         </div>
     </div>
+    <!-- ---------------ivf -center-------- -->
+    <!-- <div class="container mt-80">
+        <div class="row justify-content-center">
+            <div class="col-lg-10 text-center">
+                <h3 class="heading font-bold text-primary">Best IVF center in Mumbai</h3>
+                <hr class="hr-1 text-primary">
+                <p class="font-4 text-lh-10 mb-0">If you’re looking for the best IVF center in Mumbai, Pearl Fertility is the place to go. Pearl Fertility operates two IVF center in Mumbai, one in Borivali and the other in Kandivali. Many IVF pregnancies have been successfully done here.
 
 
-    <!-- ---------  ivf  process ------------ -->
-    <div class="mt-0 bg-light">
+                </p><br><br>
+                <p class="font-4 text-lh-10 mb-0">Our competent medical staff, in-house gynecologists, IVF physicians, and infertility specialists at Pearl IVF center in Borivali and Kandivali guarantee that you undergo treatment procedures so that your complete motherhood journey is seamless. To that purpose, we provide the most cost-effective treatment options, as well as some simple payment options.</p>
+            </div>
+        </div>
+    </div> -->
+
+    <!-- ---------  iui  process ------------ -->
+    <div class="mt-0 ">
         <div class="container">
             <div class="row  d-flex align-items-start">
-                <div class="col-lg-6 col-md-6 col-12 pt-40 pb-40 pl-40 pr-40 wow fadeInLeft">
-                    <h2 class="heading font-bold mb-20">Prenatal Care & Tests</h2>
-                    <p class="h5 mb-30">Find information on choosing an obstetrician and gynecologist, prenatal checkups, prenatal tests, including Rh status testing, and more</p>
+                <div class="col-lg-6 col-12 pt-40 pl-40 pr-40 wow fadeInLeft ">
+                    <p class="wow fadeInUp">
+                        Fertility evaluation typically involves a series of assessments and tests aimed at determining an individual or couple's ability to conceive a child. Here's an overview of what's usually involved:
+                    </p>
+                    <p class="wow fadeInUp">
+                        <span class="h6 font-bold">1.	Medical History: </span> This includes a detailed discussion of personal and family medical histories, past pregnancies (if any), and lifestyle factors that may affect fertility.
+                    </p>
+                    <p class="wow fadeInUp">
+                        <span class="h6 font-bold">2.	Physical Examination: </span>A thorough physical exam may be conducted to identify any physical issues that could affect fertility, such as abnormalities in the reproductive organs.
+                    </p>
+                    <p class="wow fadeInUp">
+                        <span class="h6 font-bold">3.	Ovulation Evaluation: </span>For women, assessing ovulation involves tracking menstrual cycles and may include blood tests to measure hormone levels (such as progesterone) at different points in the cycle.
+                    </p>
+                    <p class="wow fadeInUp">
+                        <span class="h6 font-bold">4.	Semen Analysis: </span>For men, semen analysis is a crucial part of fertility evaluation. It involves examining a sample of semen to assess sperm count, motility (movement), morphology (shape), and other factors that affect sperm health.
+                    </p>
+                    
 
-                    <h3 class="text-align-center">Hysteroscopy</h3>
-                    <h3>Laparoscopy</h3>
+
                     <!-- <a href="https://www.betheshyft.com/" class="btn btn-primary">Know More</a> -->
                 </div>
-                <div class="col-lg-6 col-md-6 col-12 wow fadeInRight">
-                    <img src="_images/hypro-1.png" class="img-fluid mt-5 mb-2" alt="">
+                <div class="col-lg-6 col-12 wow fadeInRight">
+                    <img src="images/fertility-eveluation.jpg" class="img-fluid mt-5 mb-5" style="width:100%" alt="">
                 </div>
 
             </div>
-        </div>
-    </div>
+            <div class="row">
+                <div class="col-12 pb-40 pl-40 pr-40">
+                <p class="wow fadeInUp">
+                        <span class="h6 font-bold">5.	Hormone Testing: </span>Both men and women may undergo hormone testing to evaluate levels of reproductive hormones such as follicle-stimulating hormone (FSH), luteinizing hormone (LH), estradiol, and testosterone.
+                    </p>
+                    <p class="wow fadeInUp">
+                        <span class="h6 font-bold">6.	Imaging Tests: </span>Imaging Tests: These may include ultrasound scans to examine the reproductive organs, such as the uterus and ovaries in women or the testes in men. Other imaging tests, such as hysterosalpingography (HSG) for women or scrotal ultrasound for men, may be performed to assess the structure of the reproductive organs.
+                    </p>
+                    <p class="wow fadeInUp">
+                        <span class="h6 font-bold">7.	Additional Tests: </span>Depending on individual circumstances, additional tests may be recommended. These could include genetic testing, tests for sexually transmitted infections (STIs), or procedures such as hysteroscopy or laparoscopy to directly visualize the reproductive organs.
+                    </p>
+                    <p class="wow fadeInUp">
+                        <span class="h6 font-bold">8.  Specialized Evaluation: </span>If initial evaluations do not identify a cause of infertility, further specialized testing or consultation with specialists such as reproductive endocrinologists or urologists may be necessary.
+                    </p>
+                    <p class="wow fadeInUp">
+                        Fertility evaluation is a personalized process, and the specific tests conducted may vary based on individual circumstances and any underlying factors that may be contributing to infertility. It's typically recommended for couples who have been trying to conceive for a year without success (or six months if the woman is over 35) or for individuals with known fertility issues. Consulting with a reproductive specialist or fertility clinic is often the first step in the evaluation process.
+                    </p>
 
-    <!-- services we offer -->
-    <div class="container mt-80">
-        <div class="row justify-content-center">
-            <div class="col-lg-10 text-center wow fadeInLeft">
-                <h3 class="heading font-bold text-primary  ">Services We Offer</h3>
-                <h3 class="heading font-bold">Pregnancy Week By Week</h3>
-
-                <hr class="hr-1 text-primary">
-                <p class="font-4 text-lh-10 mb-0">After fertilization and implantation, a baby is at first just an embryo: two layers of cells from which all the organs and body parts will develop.
-                </p>
+                </div>
             </div>
-        </div>
-        <div class="row no-gutters mt-40 p-4 justify-items-center text-center wow fadeInUp">
-            <div class="col-lg-4 col-md-6 col-12">
-                <img src="_images/first.png" style="width: 250px; height: 200px;">
-                <h3 class="heading font-bold ">First Trimester</h3>
-            </div>
-            <div class="col-lg-4 col-md-6 col-12">
-                <img src="_images/second.png" style="width: 250px; height: 200px;">
-                <h3 class="heading font-bold">Second Trimester</h3>
-            </div>
-            <div class="col-lg-4 col-md-6 col-12">
-                <img src="_images/third.png" style="width: 250px; height: 200px;">
-                <h3 class="heading font-bold">Third Trimester</h3>
-            </div>
-
         </div>
     </div>
 

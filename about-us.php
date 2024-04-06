@@ -305,22 +305,12 @@
     We believe in a personalized approach to fertility treatment, recognizing that every individual or couple's journey is unique. Our team of fertility specialists works closely with each patient to develop customized treatment plans tailored to their specific needs, preferences, and goals. From initial consultations and diagnostic testing to advanced reproductive technologies such as in vitro fertilization (IVF), intrauterine insemination (IUI), and egg freezing, we offer a comprehensive range of fertility services designed to maximize success while minimizing stress.
 </p>
 <h4 class="heading font-bold">
-    State-of-the-Art Facilities
-</h4>
-<p>
-    Our IVF Centre is equipped with the latest advancements in reproductive technology, ensuring that our patients have access to the most innovative and effective treatments available. Our modern facilities provide a comfortable and supportive environment for patients undergoing fertility treatment, with amenities designed to enhance the overall experience.
-</p>
-<h4 class="heading font-bold">
         Experienced and Compassionate Team
 </h4>
 <p>
     At Pearl Fertility and IVF, our team of fertility specialists is comprised of highly trained and experienced professionals who are dedicated to helping our patients achieve their dreams of parenthood. With expertise in reproductive endocrinology, embryology, andrology, and fertility nursing, our team works collaboratively to deliver the highest standard of care with compassion and empathy.
-</p><h4 class="heading font-bold">
-        Comprehensive Support Services
-    </h4>
-<p>
-    We understand that the journey towards parenthood can be emotionally challenging, which is why we offer a range of support services to our patients. From counseling and support groups to financial assistance and fertility preservation options, we are committed to ensuring that our patients feel supported every step of the way.
-</p><h4 class="heading font-bold">
+</p>
+<h4 class="heading font-bold">
         Schedule Your Consultation Today
     </h4>
 <p>

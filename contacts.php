@@ -130,26 +130,27 @@
 
     <div class="container mt-60 mb-60">
         <div class="row">
+        <div class="col-lg-6 mt-20 mb-20 wow fadeInLeft">
+                <div class="pl-40 pr-40  border-lg-right ">
+                    <h4 class="heading font-bold">Kandivali Centre</h4>
+                    <p class="h6 d-flex align-items-top"><i class="ion-location-outline icon-left"></i>First Floor, Kanyakumari Heights, Bandar Pakhadi Rd, off New Link Road, Kandivali, Maharashtra Nagar,<br> Kandivali West, Mumbai, Maharashtra 400067</p>
+                    <p class="h6 d-flex align-items-center"><i class="ion-call-outline icon-left"></i><a href="tel:+91 8779580308" style="color: black;">+91 8779580308</a></p>
+                    <p class="h6 d-flex align-items-center mb-0"><i class="ion-mail-outline icon-left"></i><a href="mailto:pearlfertilitynivf@gmail.com" style=" color: black;">pearlfertilitynivf@gmail.com</a></p>
+                    <img src="address-images/KandivaliCenterAddress.png" style="width:100px;" alt="">
+                </div>
+            </div>
             <div class="col-lg-6 mt-20 mb-20">
-                <div class="pl-40 pr-40 border-lg-right wow fadeInLeft">
+                <div class="pl-40 pr-40 wow fadeInRight">
                     <h4 class="heading font-bold">Borivali Centre</h4>
                     <p class="h6 d-flex align-items-top"><i class="ion-location-outline icon-left"></i>
                         Our Borivali Centre Location:
                         1st Floor, Gorai Matru Ashish Society, B-Wing, Opp.Azra Bank, <br>RSC Rd Number 52, Gorai 2, <br>Borivali West, Mumbai, Maharashtra 400092</p>
-                    <p class="h6 d-flex align-items-center"><i class="ion-call-outline icon-left"></i><a href="tel:+919022920663" style=" color: black;">+919022920663</a></p>
-                    <p class="h6 d-flex align-items-center mb-0"><i class="ion-mail-outline icon-left"></i><a href="mailto:pearlfertilitynivf@gmail.com" style=" color: black;">pearlfertilitynivf@gmail.com
-                        </a></p>
+                        <p class="h6 d-flex align-items-center"><i class="ion-call-outline icon-left"></i><a href="tel:+919022920663" style=" color: black;">+919022920663</a></p>
+                        <p class="h6 d-flex align-items-center mb-0"><i class="ion-mail-outline icon-left"></i><a href="mailto:pearlfertilitynivf@gmail.com" style=" color: black;">pearlfertilitynivf@gmail.com</a></p>
+                        <img src="address-images/BorivaliCenterAddress.png" style="width:100px;" alt="">
                 </div>
             </div>
-            <div class="col-lg-6 mt-20 mb-20 wow fadeInRight">
-                <div class="pl-40 pr-40 ">
-                    <h4 class="heading font-bold">Kandivali</h4>
-                    <p class="h6 d-flex align-items-top"><i class="ion-location-outline icon-left"></i>First Floor, Kanyakumari Heights, Bandar Pakhadi Rd, off New Link Road, Kandivali, Maharashtra Nagar,<br> Kandivali West, Mumbai, Maharashtra 400067</p>
-                    <p class="h6 d-flex align-items-center"><i class="ion-call-outline icon-left"></i><a href="tel:+91 8779580308" style="color: black;">+91 8779580308</a></p>
-                    <p class="h6 d-flex align-items-center mb-0"><i class="ion-mail-outline icon-left"></i><a href="mailto:pearlfertilitynivf@gmail.com" style=" color: black;">pearlfertilitynivf@gmail.com</a>
-
-                </div>
-            </div>
+            
             <!-- <div class="col-lg-4 mt-20 mb-20">
                 <div class="pl-40 pr-40">
                     <h4 class="heading font-bold">Seattle</h4>

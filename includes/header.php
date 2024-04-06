@@ -63,7 +63,7 @@
         <!-- Main Menu -->
         <ul class="navbar-nav">
           <li class="nav-item">
-            <a href="index">Home</a>
+            <a href="https://pearlfertilityandivf.com/demo/">Home</a>
 
           </li>
           <li class="nav-item">
