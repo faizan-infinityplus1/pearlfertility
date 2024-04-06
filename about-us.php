@@ -211,7 +211,7 @@
         8.	Positive Patient Experiences:</span> Our patients are at the center of everything we do. We take great pride in the positive feedback and testimonials we receive from those we've helped along their fertility journey. Your satisfaction and success are our greatest rewards.
     </p>
     <p class="wow fadeInUp">
-        When you choose Pearl Fertility and IVF, you're choosing a trusted partner who is dedicated to helping you achieve your dream of parenthood. <a href="contact.php">Contact us</a> today to schedule your consultation and take the first step towards building your family.
+        When you choose Pearl Fertility and IVF, you're choosing a trusted partner who is dedicated to helping you achieve your dream of parenthood. <a href="contacts">Contact us</a> today to schedule your consultation and take the first step towards building your family.
     </p>
 
     </div>

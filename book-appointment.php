@@ -264,7 +264,7 @@
                         <h5 class="heading d-flex align-items-center"><i class="ion-share-social-outline icon-left"></i>Departments</h5>
                         <ul class="mb-0">
                             <li>
-                                <a href="ivf-center.php">
+                                <a href="best-ivf-center-in-mumbai.php">
                                     <div class="dep-icon">
                                         <i class="mw-stretcher  "></i>
                                     </div>
@@ -272,7 +272,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="iui-treatment.php">
+                                <a href="iui-treatment-in-mumbai.php">
                                     <div class="dep-icon">
                                         <i class="mw-tablets"></i>
                                     </div>
@@ -280,7 +280,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="icsi-treatment.php">
+                                <a href="icsi-treatment-for-infertility.php">
                                     <div class="dep-icon">
                                         <i class="mw-pulse"></i>
                                     </div>
@@ -296,7 +296,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="gynecologist.php" class="pb-0">
+                                <a href="best-lady-gynecologist-in-mumbai.php" class="pb-0">
                                     <div class="dep-icon">
                                         <i class="mw-uterus"></i>
                                     </div>

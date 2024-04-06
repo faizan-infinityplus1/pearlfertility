@@ -80,13 +80,13 @@
                   <ul class="menu-items">
                     <!-- <li class="menu-heading">IVF Center in Mumbai</li> -->
                     <li>
-                      <a href="ivf-center">IVF Center In Mumbai</a>
+                      <a href="best-ivf-center-in-mumbai">IVF Center In Mumbai</a>
                     </li>
 
                     <!-- -----------HR--------- -->
                     <li class="hr"></li>
                     <li>
-                      <a href="iui-treatment">IUI Treatment In Mumbai</a>
+                      <a href="iui-treatment-in-mumbai">IUI Treatment In Mumbai</a>
                     </li>
                     <!-- ------------HR---------- -->
                     <li class="hr"></li>
@@ -195,12 +195,12 @@
                     <li class="hr"></li>
 
                     <li>
-                      <a href="icsi-treatment">ICSI Treatment For Infertility</a>
+                      <a href="icsi-treatment-for-infertility">ICSI Treatment For Infertility</a>
                     </li>
                     <!-- -------------hr---------- -->
                     <li class="hr"></li>
                     <li>
-                      <a href="gynecologist">Best Gynecologist In Mumbai</a>
+                      <a href="best-lady-gynecologist-in-mumbai">Best Gynecologist In Mumbai</a>
                     </li>
                     <!-- ------------HR------------ -->
                     <li class="hr"></li>
@@ -215,7 +215,7 @@
                       <a href="premarital-counseling">Premarital counseling</a>
                     </li> -->
                     <li>
-                      <a href="pcos-treatment">PCOS Treatment In Mumbai</a>
+                      <a href="pcos-treatment-in-mumbai">PCOS Treatment In Mumbai</a>
                     </li>
                     <li>
                       <a href="automated-semen-analyser">Automated Semen Analyser</a>
@@ -261,7 +261,7 @@
           <li class="nav-item">
             <a href="faqs">FAQ</a>
           <li class="nav-item">
-            <a href="contact">Contact</a>
+            <a href="contacts">Contact</a>
             <!-- <div class="sub-menu"> -->
             <!-- Sub Menu -->
             <!-- <ul class="menu-items">

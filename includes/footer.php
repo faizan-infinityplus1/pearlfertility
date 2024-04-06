@@ -41,20 +41,20 @@
                         <h5 class="heading font-bold">Useful Links</h5>
                         <ul>
                             <li>
-                                <a href="ivf-center.php">
+                                <a href="best-ivf-center-in-mumbai.php">
                                     IVF Services</a>
                             </li>
                             <li>
-                                <a href="iui-treatment.php">
+                                <a href="iui-treatment-in-mumbai.php">
                                     IUI Services</a>
                             </li>
                             <li><a href="imsi.php">
                                     IMSI Services</a></li>
                             <li><a href="donor-embryo.php">Donor Embryo Service</a></li>
-                            <li><a href="pcos-treatment.php">PCOS Treatment
+                            <li><a href="pcos-treatment-in-mumbai.php">PCOS Treatment
                                 </a></li>
-                            <li><a href="icsi-treatment.php">ICSI Treatment</a></li>
-                            <li><a href="gynecologist.php">
+                            <li><a href="icsi-treatment-for-infertility.php">ICSI Treatment</a></li>
+                            <li><a href="best-lady-gynecologist-in-mumbai.php">
                                     Best Gynecologist
                                 </a></li>
                             <li><a href="doctor.php"> Our Doctor</a></li>
@@ -220,7 +220,8 @@ bottom: 70px;
 background: #25d366;
 right: 2.1875rem;
 width: 50px;
-height: 50px;">
+height: 50px;
+z-index:99;">
     <div id="whatsapp-btn" style="margin-top:5px;">
         <a class="whatsapp" href="https://wa.me/+919022920663">
             <i class="ion-logo-whatsapp" style="color:white; font-size:25px"></i>

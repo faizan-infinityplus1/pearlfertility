@@ -438,7 +438,7 @@
         <p class="mb-20">
           If you could not find an answer to your query, please contact us.
         </p>
-        <a href="contact.php" class="btn btn-primary">Raise a Query</a>
+        <a href="contacts" class="btn btn-primary">Raise a Query</a>
       </div>
     </div>
   </div>
