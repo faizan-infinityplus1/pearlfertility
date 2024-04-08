@@ -181,16 +181,18 @@
 
                         <div class="slider-title">
                           <h1 class="heading-01 h1-head">
-                            Empowering Journeys:
-                            <span class="bold"> Fertility And IVF</span>
+                            <!-- Empowering Journeys: -->
+                            Transforming Dreams into Reality, With Love
+                            <!-- <span class="bold"> Fertility And IVF</span> -->
                           </h1>
                         </div>
                         <!--// Slider Title End-->
                         <div class="slider-paragraph pb-25 pt-20">
                           <p class="p-head">
-                            Experience the empowering medical odyssey of
+                          Where Happy Mothers Begin Their Journey
+                            <!-- Experience the empowering medical odyssey of
                             Fertility and IVF Journeys, embracing transformative
-                            paths toward parenthood.
+                            paths toward parenthood. -->
                           </p>
                         </div>
                         <!--// Slider Paragraph End-->
@@ -269,19 +271,21 @@
 
                         <div class="slider-title">
                           <h1 class="heading-01 h1-head">
-                            Blossom Blend:
-                            <span class="bold"
+                          Where Miracles are Conceived with Care
+                            <!-- Blossom Blend: -->
+                            <!-- <span class="bold"
                               >Fertility's Blossoming Tapestry</span
-                            >
+                            > -->
                           </h1>
                         </div>
                         <!--// Slider Title End-->
 
                         <div class="slider-paragraph pb-25 pt-20">
                           <p class="p-head">
-                            Fertility's Blossoming Tapestry weaves the
+                          Trust the best for your Life's Biggest Dream.
+                            <!-- Fertility's Blossoming Tapestry weaves the
                             intertwined beauty of fertility, painting a vibrant
-                            journey to parenthood filled with hope and joy.
+                            journey to parenthood filled with hope and joy. -->
                           </p>
                         </div>
                         <!--// Slider Paragraph End-->
@@ -359,20 +363,22 @@
 
                         <div class="slider-title">
                           <h1 class="heading-01 h1-head">
-                            Conceiving Dreams:
-                            <span class="bold"
+                          Bringing Dreams to Life, Experience Miracles
+                            <!-- Conceiving Dreams: -->
+                            <!-- <span class="bold"
                               >Fertility's Pathway To Pregnancy</span
-                            >
+                            > -->
                           </h1>
                         </div>
                         <!--// Slider Title End-->
 
                         <div class="slider-paragraph pb-25 pt-20">
                           <p class="p-head">
-                            Signifies the intricate journey of conception,
+                          From Hope to Happiness: Your IVF Journey
+                            <!-- Signifies the intricate journey of conception,
                             illustrating the navigation through challenges and
                             triumphs on the way to the joyous destination of
-                            parenthood.
+                            parenthood. -->
                           </p>
                         </div>
                         <!--// Slider Paragraph End-->
@@ -450,17 +456,19 @@
 
                         <div class="slider-title">
                           <h1 class="heading-01 h1-head">
-                            Fertility's Medical Odyssey To
-                            <span class="bold">Pregnancy Wellness</span>
+                          Building Families, Creating Futures
+                            <!-- Fertility's Medical Odyssey To -->
+                            <!-- <span class="bold">Pregnancy Wellness</span> -->
                           </h1>
                         </div>
                         <!--// Slider Title End-->
 
                         <div class="slider-paragraph pb-25 pt-20">
                           <p class="p-head">
-                            Fertility's medical journey to pregnancy wellness
+                          Guiding You on Your Path to Parenthood.
+                            <!-- Fertility's medical journey to pregnancy wellness
                             encompasses targeted interventions for optimal
-                            conception and overall well-being.
+                            conception and overall well-being. -->
                           </p>
                         </div>
                         <!--// Slider Paragraph End-->
