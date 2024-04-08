@@ -2,7 +2,7 @@
 
 @media only screen and (max-height: 620px) {
   .home-slider-area.style-02 .slider-items .slider-items-wrap {
-    padding-top: 8%;
+    padding-top: 0;
   }
   .home-slider-area.style-04 .slider-social-icon-wrap {
     top: 20%;

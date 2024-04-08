@@ -91,6 +91,57 @@
       gtag("config", "UA-79657248-2");
     </script>
     <style>
+      .home-slider-area .bg-1{
+        background: url('_images/slide1.png') no-repeat center right;
+        background-size:cover;
+      }
+      .home-slider-area .bg-2{
+        background: url('_images/slide2.png') no-repeat center right;
+        background-size:cover;
+      }
+      .home-slider-area .bg-3{
+        background: url('_images/slide3.png') no-repeat center right;
+        background-size:cover;
+      }
+      .home-slider-area .bg-4{
+        background: url('_images/slide4.png') no-repeat center right;
+        background-size:cover;
+      }
+
+      
+      @media only screen and (max-width: 769px) {
+        .home-slider-area .slider-items{
+          max-height:500px !important;
+          min-height:unset;
+        }
+        .slider-title h1{
+          color:white !important;
+          text-shadow: 3px 3px 5px black;
+          line-height:50px !important;
+        }
+        .slider-paragraph p{
+          color:white !important;
+          text-shadow: 3px 3px 5px black;
+        }
+
+      }
+      @media only screen and (max-width: 426px) {
+        .slider-paragraph{
+          padding-top: 0 !important;
+          padding-bottom: 0 !important;
+        }
+        .slider-paragraph p{
+          margin-bottom: 0px !important;
+        }
+        .home-slider-area .slider-items{
+          max-height:350px !important;
+          min-height:unset;
+        }
+        .slider-title h1{
+          line-height:50px !important;
+        }
+
+      }
       .review-card{
         position: relative;
       }
@@ -162,10 +213,7 @@
         <div class="row">
           <div class="home-slider-one">
             <!--Slider Items Start-->
-            <div
-              class="slider-items"
-              style="background-image: url('_images/slide1.png')"
-            >
+            <div class="slider-items bg-1">
               <div class="container">
                 <div class="slider-items-wrap">
                   <div class="slider-inner">
@@ -197,7 +245,7 @@
                         </div>
                         <!--// Slider Paragraph End-->
                         <div class="main-btn-wrap">
-                          <a href="" class="main-btn btn"
+                          <a href="" class="main-btn btn"  style="color:white"
                             >Make An Appointment</a
                           >
                         </div>
@@ -252,10 +300,7 @@
             <!--// Slider Items End-->
 
             <!--Slider Items Start-->
-            <div
-              class="slider-items"
-              style="background-image: url('_images/slide2.png')"
-            >
+            <div class="slider-items bg-2" >
               <div class="container">
                 <div class="slider-items-wrap">
                   <div class="slider-inner">
@@ -290,7 +335,7 @@
                         </div>
                         <!--// Slider Paragraph End-->
                         <div class="main-btn-wrap">
-                          <a href="#" class="main-btn btn"
+                          <a href="#" class="main-btn btn"  style="color:white"
                             >Make An Appointment</a
                           >
                         </div>
@@ -344,10 +389,7 @@
             <!--// Slider Items End-->
 
             <!--Slider Items Start-->
-            <div
-              class="slider-items"
-              style="background-image: url('_images/slide3.png')"
-            >
+            <div class="slider-items bg-3">
               <div class="container">
                 <div class="slider-items-wrap">
                   <div class="slider-inner">
@@ -383,7 +425,7 @@
                         </div>
                         <!--// Slider Paragraph End-->
                         <div class="main-btn-wrap">
-                          <a href="#" class="main-btn btn"
+                          <a href="#" class="main-btn btn"  style="color:white"
                             >Make An Appointment</a
                           >
                         </div>
@@ -437,10 +479,7 @@
             <!--// Slider Items End-->
 
             <!--Slider Items Start-->
-            <div
-              class="slider-items"
-              style="background-image: url('_images/slide4.png')"
-            >
+            <div class="slider-items bg-4">
               <div class="container">
                 <div class="slider-items-wrap">
                   <div class="slider-inner">
@@ -473,7 +512,7 @@
                         </div>
                         <!--// Slider Paragraph End-->
                         <div class="main-btn-wrap">
-                          <a href="#" class="main-btn btn"
+                          <a href="#" class="main-btn btn" style="color:white"
                             >Make An Appointment</a
                           >
                         </div>
