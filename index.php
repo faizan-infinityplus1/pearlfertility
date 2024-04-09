@@ -244,11 +244,11 @@
                           </p>
                         </div>
                         <!--// Slider Paragraph End-->
-                        <div class="main-btn-wrap">
+                        <!-- <div class="main-btn-wrap">
                           <a href="" class="main-btn btn"  style="color:white"
                             >Make An Appointment</a
                           >
-                        </div>
+                        </div> -->
                         <!--// Main Btn Wrap End-->
                       </div>
                     </div>
@@ -334,11 +334,11 @@
                           </p>
                         </div>
                         <!--// Slider Paragraph End-->
-                        <div class="main-btn-wrap">
+                        <!-- <div class="main-btn-wrap">
                           <a href="#" class="main-btn btn"  style="color:white"
                             >Make An Appointment</a
                           >
-                        </div>
+                        </div> -->
                         <!--// Main Btn Wrap End-->
                       </div>
                     </div>
@@ -424,11 +424,11 @@
                           </p>
                         </div>
                         <!--// Slider Paragraph End-->
-                        <div class="main-btn-wrap">
+                        <!-- <div class="main-btn-wrap">
                           <a href="#" class="main-btn btn"  style="color:white"
                             >Make An Appointment</a
                           >
-                        </div>
+                        </div> -->
                         <!--// Main Btn Wrap End-->
                       </div>
                     </div>
@@ -511,11 +511,11 @@
                           </p>
                         </div>
                         <!--// Slider Paragraph End-->
-                        <div class="main-btn-wrap">
+                        <!-- <div class="main-btn-wrap">
                           <a href="#" class="main-btn btn" style="color:white"
                             >Make An Appointment</a
                           >
-                        </div>
+                        </div> -->
                         <!--// Main Btn Wrap End-->
                       </div>
                     </div>
