@@ -785,7 +785,7 @@
               <a
                 href="about-us.php"
                 class="main-btn btn"
-                style="margin-top: -10px; margin-bottom: 20px"
+                style="margin-top: -10px; margin-bottom: 20px; color:white;"
                 >Read More</a
               >
             </div>
