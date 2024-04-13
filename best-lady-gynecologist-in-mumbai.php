@@ -219,7 +219,7 @@
                 </div>
             </div>
         </div>
-        <div class="row mb-5 wow fadeInUp>
+        <div class="row mb-5 wow fadeInUp">
             <div class=" col-12 ">
                 <!-- <h4 class=" heading font-bold text-secondary">Biography</h4> -->
             <p class="mb-0 text-justify">A gynecologist and an obstetrician almost seem to be twins. Women’s reproductive systems are the focus of gynaecology. Unlike obstetrics, which treats pregnant women and their complications, anaesthesiology treats females who are not pregnant.
