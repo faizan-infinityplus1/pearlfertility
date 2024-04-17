@@ -55,7 +55,7 @@
                                 </a></li>
                             <li><a href="icsi-treatment-for-infertility.php">ICSI Treatment</a></li>
                             <li><a href="best-lady-gynecologist-in-mumbai.php">
-                                    Best Gynecologist
+                                    Best Lady Gynecologist
                                 </a></li>
                             <li><a href="doctor.php"> Our Doctor</a></li>
 

@@ -98,6 +98,11 @@
                     <li>
                       <a href="infertility-work-up">Infertility Work Up</a>
                     </li>
+                    <!-- ------------HR---------- -->
+                    <li class="hr"></li>
+                    <li>
+                      <a href="best-gynecologist-in-mumbai">Best Gynecologist In Mumbai</a>
+                    </li>
                     <!-- ----------HR--------- -->
                     <!-- <li class="hr"></li>
                     <li class="menu-heading">IVF Center In Mumbai</li>
@@ -153,6 +158,11 @@
                     <li>
                       <a href="cervical-cancer">Cervical Cancer Screening</a>
                     </li>
+                    <!-- ---------------HR--------------- -->
+                    <li class="hr"></li>
+                    <li>
+                      <a href="ivf-cost-in-mumbai">IVF Cost in Mumbai</a>
+                    </li>
                     <!-- ------------HR------------ -->
                     <!-- <li class="hr"></li> -->
                     <!-- <li>
@@ -200,7 +210,7 @@
                     <!-- -------------hr---------- -->
                     <li class="hr"></li>
                     <li>
-                      <a href="best-lady-gynecologist-in-mumbai">Best Gynecologist In Mumbai</a>
+                      <a href="best-lady-gynecologist-in-mumbai">Best Lady Gynecologist In Mumbai</a>
                     </li>
                     <!-- ------------HR------------ -->
                     <li class="hr"></li>

@@ -13,7 +13,7 @@
     <meta name="author" content="">
 
     <title>
-    Best Gynecologist In Mumbai - Pearl Fertility and IVF
+    Best Lady Gynecologist In Mumbai - Pearl Fertility and IVF
     </title>
 
     <!-- Favicon -->
@@ -74,7 +74,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <h1 class="heading bold">Best Gynecologist In Mumbai</h1>
+                    <h1 class="heading bold">Best Lady Gynecologist In Mumbai</h1>
                     <!-- <h1 class="heading bold pt-4 pb-0">Best lady gynecologist in Mumbai</h1> -->
 
                 </div>
@@ -86,7 +86,7 @@
                     <div class="col-lg-12">
                         <ul class="breadcrumb">
                             <li><a href="index-hospital-classic.html">Home</a></li>
-                            <li class="active">Best Gynecologist In Mumbai</li>
+                            <li class="active">Best Lady Gynecologist In Mumbai</li>
                         </ul>
                     </div>
                 </div>
