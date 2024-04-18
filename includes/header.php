@@ -79,30 +79,33 @@
                 <div class="col-lg-3">
                   <ul class="menu-items">
                     <!-- <li class="menu-heading">IVF Center in Mumbai</li> -->
+
+                    <li class="menu-heading">IVF TREATMENTS</li>
                     <li>
                       <a href="best-ivf-center-in-mumbai">IVF Center In Mumbai</a>
                     </li>
-
-                    <!-- -----------HR--------- -->
-                    <li class="hr"></li>
                     <li>
-                      <a href="iui-treatment-in-mumbai">IUI Treatment In Mumbai</a>
+                    <a href="ivf-cost-in-mumbai">IVF Cost in Mumbai</a>
                     </li>
-                    <!-- ------------HR---------- -->
-                    <li class="hr"></li>
+                    <li>
+                    <a href="iui-treatment-in-mumbai">IUI Treatment In Mumbai</a>
+                    </li>
+                    <li>
+                    <a href="imsi">IMSI</a>
+                    </li>
+                    <li>
+                      <a href="icsi-treatment-for-infertility">ICSI Treatment For Infertility</a>
+                    </li>
                     <li>
                       <a href="fertility-evaluation">Fertility Evaluation</a>
                     </li>
-                    <!-- ------------HR---------- -->
-                    <li class="hr"></li>
                     <li>
                       <a href="infertility-work-up">Infertility Work Up</a>
                     </li>
-                    <!-- ------------HR---------- -->
+                    <li><a href="blastocyst">Blastocyst Transfer</a></li>
+
                     <li class="hr"></li>
-                    <li>
-                      <a href="best-gynecologist-in-mumbai">Best Gynecologist In Mumbai</a>
-                    </li>
+                    
                     <!-- ----------HR--------- -->
                     <!-- <li class="hr"></li>
                     <li class="menu-heading">IVF Center In Mumbai</li>
@@ -115,21 +118,49 @@
                 <div class="col-lg-3">
                   <ul class="menu-items">
                     <!-- <li class="menu-heading">Features</li> -->
-                    <li><a href="blastocyst">Blastocyst Transfer</a></li>
-                    <!-- ---------------HR----------- -->
-                    <li class="hr"></li>
+                    <li class="menu-heading">GYNEC SERVICES</li>
+
                     <li>
-                      <a href="imsi">IMSI</a>
+                      <a href="best-gynecologist-in-mumbai">Best Gynecologist In Mumbai</a>
+                    </li>
+                    <li>
+                      <a href="best-lady-gynecologist-in-mumbai">Best Lady Gynecologist In Mumbai</a>
+                    </li>
+                    <li>
+                      <a href="menopause-clinic">Menopause Clinic</a>
+                    </li>
+                    <li>
+                      <a href="contraception-counseling">Contraception counseling</a>
+                    </li>
+                    <li>
+                      <a href="pcos-treatment-in-mumbai">PCOS Treatment In Mumbai</a>
+                    </li>
+                    <li class="hr"></li>
+
+                  </ul>
+                </div>
+                <div class="col-lg-3">
+                  <ul class="menu-items">
+                    <!-- <li class="menu-heading">Careers</li> -->
+                    <!-- <li><a href="reflexology">Reflexology</a></li> -->
+                    <!-- ----------------HR------------ -->
+                    <!-- <li class="hr"></li> -->
+
+                    <li class="menu-heading">FREEZING SERVICES</li>
+
+                    <li>
+                      <a href="oocyte">Oocyte Freezing</a>
+                    </li>
+                    <li>
+                      <a href="embryo-freezing">Embryo Freezing</a>
+                    </li>
+                    <li>
+                      <a href="semen-freezing">Semen Freezing</a>
                     </li>
 
-                    <!-- ------------HR------------ -->
-                    <!-- <li class="hr"></li>
-                    <li>
-                      <a href="cardiology">Cardiology And Medical<br> Evaluation</a>
-                    </li> -->
-
-                    <!-- ------------HR------------ -->
                     <li class="hr"></li>
+
+
                     <li class="menu-heading">DONOR SERVICE</li>
                     <li>
                       <a href="donor-sperm">Donor Sperm</a>
@@ -140,49 +171,8 @@
                     <li>
                       <a href="donor-embryo">Donor Embryo</a>
                     </li>
+                    <li class="hr"></li>
 
-                  </ul>
-                </div>
-                <div class="col-lg-3">
-                  <ul class="menu-items">
-                    <!-- <li class="menu-heading">Careers</li> -->
-                    <!-- <li><a href="reflexology">Reflexology</a></li> -->
-                    <!-- ----------------HR------------ -->
-                    <!-- <li class="hr"></li> -->
-                    <li>
-                      <a href="laproscopy">Laparoscopy</a>
-                    </li>
-
-                    <!-- ---------------HR--------------- -->
-                    <li class="hr"></li>
-                    <li>
-                      <a href="cervical-cancer">Cervical Cancer Screening</a>
-                    </li>
-                    <!-- ---------------HR--------------- -->
-                    <li class="hr"></li>
-                    <li>
-                      <a href="ivf-cost-in-mumbai">IVF Cost in Mumbai</a>
-                    </li>
-                    <!-- ------------HR------------ -->
-                    <!-- <li class="hr"></li> -->
-                    <!-- <li>
-                      <a href="cardiology">CARDIOLOGY AND MEDICAL<br> EVALUATION</a>
-                    </li> -->
-                    <!-- <li>
-                      <a href="cardiology">CARDIOLOGY AND MEDICAL<br> EVALUATION</a>
-                    </li> -->
-                    <!-- ------------HR------------ -->
-                    <li class="hr"></li>
-                    <li class="menu-heading">FREEZING SERVICES</li>
-                    <li>
-                      <a href="oocyte">Oocyte Freezing</a>
-                    </li>
-                    <li>
-                      <a href="embryo-freezing">Embryo Freezing</a>
-                    </li>
-                    <li>
-                      <a href="semen-freezing">Semen Freezing</a>
-                    </li>
                     <!-- <li><a href="careers-list.html">Careers List</a></li>
                         <li class="hr"></li>
                         <li class="menu-heading">Components</li>
@@ -199,40 +189,23 @@
                 <div class="col-lg-3">
                   <ul class="menu-items">
                     <!-- <li class="menu-heading">Icons</li> -->
-                    <li><a href="hysteroscopy">Hysteroscopy</a></li>
-
-                    <!-- --------HR------------ -->
-                    <li class="hr"></li>
-
-                    <li>
-                      <a href="icsi-treatment-for-infertility">ICSI Treatment For Infertility</a>
-                    </li>
-                    <!-- -------------hr---------- -->
-                    <li class="hr"></li>
-                    <li>
-                      <a href="best-lady-gynecologist-in-mumbai">Best Lady Gynecologist In Mumbai</a>
-                    </li>
-                    <!-- ------------HR------------ -->
-                    <li class="hr"></li>
                     <li class="menu-heading">OTHER SERVICES</li>
-                    <li>
-                      <a href="menopause-clinic">Menopause Clinic</a>
-                    </li>
-                    <li>
-                      <a href="contraception-counseling">Contraception counseling</a>
-                    </li>
-                    <!-- <li>
-                      <a href="premarital-counseling">Premarital counseling</a>
-                    </li> -->
-                    <li>
-                      <a href="pcos-treatment-in-mumbai">PCOS Treatment In Mumbai</a>
-                    </li>
                     <li>
                       <a href="automated-semen-analyser">Automated Semen Analyser</a>
                     </li>
                     <li>
                       <a href="sonography">Comprehensive Sonography</a>
                     </li>
+                    <li>
+                      <a href="laproscopy">Laparoscopy</a>
+                    </li>
+                    <li>
+                      <a href="cervical-cancer">Cervical Cancer Screening</a>
+                    </li>
+                    <li>
+                      <a href="hysteroscopy">Hysteroscopy</a>
+                    </li>
+                    <li class="hr"></li>
                     <!-- <li><a href="icon-boxes.html">Icon Boxes</a></li>
                         <li><a href="medical-icons.html">Medical Icons</a></li>
                         <li><a href="social-media.html">Social Icons</a></li>
