@@ -91,7 +91,7 @@
                     <a href="iui-treatment-in-mumbai">IUI Treatment In Mumbai</a>
                     </li>
                     <li>
-                    <a href="imsi">IMSI</a>
+                    <a href="imsi-treatment-in-mumbai">IMSI Treatment In Mumbai</a>
                     </li>
                     <li>
                       <a href="icsi-treatment-for-infertility">ICSI Treatment For Infertility</a>
