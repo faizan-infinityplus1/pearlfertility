@@ -1347,12 +1347,9 @@
                         class="card p-3 review-card"
                       >
                         <div class="d-flex m-">
-                          <img
-                            style="width: 50px; height: 50px"
-                            src="https://www.goticketspro.com/wp-content/uploads/2024/02/ChIJyT3o3nLTQIYRuXsWN3R8UjY_e8dd98b5399bd0a48fb3b06c670d1658.jpg"
-                            class="card-img-top"
-                            alt="img"
-                          />
+                        <div style="width: 50px;height: 50px; border-radius:50%; background-color: #78909c; display: flex; align-items: center; justify-content: center;">
+                            <p style="font-size: 20px; font-weight: 900; color: white; margin: 0;">Y</p>
+                          </div>
                           <div class="m-2">
                             <h5 style="font-size: 13px" class="card-title">
                             Yash Shah
@@ -1411,12 +1408,9 @@
                         class="card p-3 review-card"
                       >
                         <div class="d-flex m-">
-                          <img
-                            style="width: 50px; height: 50px"
-                            src="https://www.goticketspro.com/wp-content/uploads/2024/02/ChIJyT3o3nLTQIYRuXsWN3R8UjY_e8dd98b5399bd0a48fb3b06c670d1658.jpg"
-                            class="card-img-top"
-                            alt="img"
-                          />
+                          <div style="width: 50px;height: 50px; border-radius:50%; background-color: red; display: flex; align-items: center; justify-content: center;">
+                            <p style="font-size: 20px; font-weight: 900; color: white; margin: 0;">N</p>
+                          </div>
                           <div class="m-2">
                             <h5 style="font-size: 13px" class="card-title">
                             Nisha Angel
