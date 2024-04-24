@@ -5,7 +5,6 @@
 <!-- Mirrored from wwsthemes.com/themes/medwise/v2.0/policies.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 21 Feb 2024 07:05:55 GMT -->
 
 <head>
-
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -17,7 +16,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <!-- Favicon -->
     <link rel="icon" href="_images/favicon.png" type="image/x-icon" />
-
+    <?php include "includes/tags.php" ?>
 
     <!-- Bootstrap Framework Version 4.5.3 -->
     <link href="css/bootstrap.min.css" type="text/css" rel="stylesheet">
