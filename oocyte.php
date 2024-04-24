@@ -20,6 +20,8 @@
     <!-- Favicon -->
     <link rel="icon" href="_images/favicon.png" type="image/x-icon" />
 
+     <!--  adding tags.php by kadir -->
+     <?php include "includes/tags.php" ?>
 
     <!-- Bootstrap Framework Version 4.5.3 -->
     <link href="css/bootstrap.min.css" type="text/css" rel="stylesheet">
