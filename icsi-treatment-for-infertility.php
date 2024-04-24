@@ -10,8 +10,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="author" content="">
+    <link rel="canonical" href="https://pearlfertilityandivf.com/icsi-treatment-for-infertility/">
 
-    <title>ICSI Treatment For Infertility - Pearl Fertility and IVF</title>
+    <title>ICSI Treatment for Infertility in Mumbai - Pearl Fertility And IVF</title>
 
     <meta name="keywords" content="ICSI in mumbai, ICSI treatment for Infertility">
     <meta name="title" content="ICSI Treatment for Infertility in Mumbai - Pearl Fertility And IVF">

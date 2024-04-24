@@ -10,9 +10,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="author" content="">
+    <link rel="canonical" href="https://pearlfertilityandivf.com/best-gynecologist-in-mumbai/">
 
     <title>
-    Best Gynecologist In Mumbai - Pearl Fertility and IVF
+    Best Gynecologist in Mumbai - Pearl Fertility And IVF
     </title>
 
     <meta name="keywords" content="Best gynecologist in Mumbai, Best lady gynecologist in Mumbai">

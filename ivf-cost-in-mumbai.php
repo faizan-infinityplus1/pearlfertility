@@ -10,8 +10,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="author" content="">
+    <link rel="canonical" href="https://pearlfertilityandivf.com/ivf-cost-in-mumbai/">
 
-    <title>Fertility Evaluation - Pearl Fertility and IVF</title>
+    <title>IVF Cost in Mumbai - Pearl Fertility And IVF</title>
 
     <meta name="keywords" content="IVF cost in Mumbai, Best IVF Centre in Mumbai">
     <meta name="title" content="IVF Cost in Mumbai - Pearl Fertility And IVF">

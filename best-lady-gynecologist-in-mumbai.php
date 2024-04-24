@@ -10,12 +10,13 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="author" content="">
+    <link rel="canonical" href="https://pearlfertilityandivf.com/best-lady-gynecologist-in-mumbai/">
 
     <title>
-    Best Lady Gynecologist In Mumbai - Pearl Fertility and IVF
+    Best Lady Gynecologist in Mumbai | Best IVF Doctor in Mumbai At Pearl Fertility And IVF
     </title>
 
-    <meta name="keywords" content="Best lady gynecologist in Mumbai, Best gynecologist in Mumbai, Best ivf doctor in Mumbai">
+    <meta name="keywords" content="Best lady gynecologist in Mumbai, Best gynecologist in Mumbai, Best ivf doctor in Mumbai,">
     <meta name="title" content="Best Lady Gynecologist in Mumbai | Best IVF Doctor in Mumbai At Pearl Fertility And IVF">
     <meta name="description" content="We have team of experienced and Best IVF Doctors in Mumbai. Especially at our centre we have one of the best lady Gynecologist in Mumbai. Book Your Appointment!">
     

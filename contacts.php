@@ -10,9 +10,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="author" content="">
+    <link rel="canonical" href="https://pearlfertilityandivf.com/contacts/">
 
     <title>
-        Contact Us - Pearl Fertility and IVF
+    Best Gynecologist Hospital in Mumbai - Pearl Fertility And IVF
     </title>
 
     <meta name="keywords" content="Best Gynecologist Hospital in Mumbai, Best IUI treatment centre in Mumbai, PCOS treatment in Mumbai, Low cost IVF centre in Mumbai, IVF cost in Mumbai, Best IVF Centre in Mumbai, Best ivf doctor in Mumbai, ICSI treatment for Infertility, ICSI in mumbai, Best lady gynecologist in Mumbai">

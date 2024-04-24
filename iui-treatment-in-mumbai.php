@@ -10,8 +10,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="author" content="">
+    <link rel="canonical" href="https://pearlfertilityandivf.com/iui-treatment-in-mumbai/">
 
-    <title>Best IUI Treatment In Mumbai - Pearl Fertility and IVF</title>
+
+    <title>Best IUI Treatment Centre in Mumbai - Pearl Fertility And IVF</title>
 
     <meta name="keywords" content="Best IUI treatment centre in Mumbai">
     <meta name="title" content="Best IUI Treatment Centre in Mumbai - Pearl Fertility And IVF">

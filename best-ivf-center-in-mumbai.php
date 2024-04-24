@@ -10,8 +10,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="author" content="">
+    <link rel="canonical" href="https://pearlfertilityandivf.com/best-ivf-center-in-mumbai/">
 
-    <title>IVF Center in Mumbai - Pearl Fertility and IVF</title>
+    <title>Low Cost IVF Centre in Mumbai | Best IVF Centre in Mumbai by Pearl Fertility And IVF</title>
 
     <meta name="keywords" content="Low cost IVF centre in Mumbai, Best IVF Centre in Mumbai, Best ivf doctor in Mumbai">
     <meta name="title" content="Low Cost IVF Centre in Mumbai | Best IVF Centre in Mumbai by Pearl Fertility And IVF">
