@@ -2033,60 +2033,57 @@
         <div class="col-md-4 col-12 home-blog-card">
           <div class="home-blog-card-img-container">
             <img
-              src="images/automated-semen-analyser-img-1024x878.jpg"
+              src="images/blog-img/blog-1.png"
               alt=""
             />
           </div>
           <div class="home-blog-card-content p-20">
             <h2 class="home-blog-card-heading">
-              Exploring the Science Behind IVF: How It Works?
+              Testing for Female Infertility: What to Expect
             </h2>
             <p class="home-blog-card-info">
-              Posted on March 25th, 2024 Do you want to grow your family but
-              can’t conceive? If so, you may wonder...
+              Understanding the intricacies of female infertility can be a crucial step on the journey to parenthood....
             </p>
             <div class="home-blog-card-btn">
-              <a href="#" class="home-blog-card-read-more-btn">Read More</a>
+              <a href="https://pearlfertilityandivf.com/blog/2024/04/20/testing-for-female-infertility-what-to-expect/" class="home-blog-card-read-more-btn">Read More</a>
             </div>
           </div>
         </div>
         <div class="col-md-4 col-12 home-blog-card">
           <div class="home-blog-card-img-container">
             <img
-              src="images/automated-semen-analyser-img-1024x878.jpg"
+              src="images/blog-img/blog-2.jpg"
               alt=""
             />
           </div>
           <div class="home-blog-card-content p-20">
             <h2 class="home-blog-card-heading">
-              Exploring the Science Behind IVF: How It Works?
+              Exploring The Science Behind IVF: How It Works
             </h2>
             <p class="home-blog-card-info">
-              Posted on March 25th, 2024 Do you want to grow your family but
-              can’t conceive? If so, you may wonder...
+              Do you want to grow your family but can’t conceive? If so, you may wonder if in vitro fertilization (IVF)...
             </p>
             <div class="home-blog-card-btn">
-              <a href="#" class="home-blog-card-read-more-btn">Read More</a>
+              <a href="https://pearlfertilityandivf.com/blog/2024/04/20/exploring-the-science-behind-ivf-how-it-works/" class="home-blog-card-read-more-btn">Read More</a>
             </div>
           </div>
         </div>
         <div class="col-md-4 col-12 home-blog-card">
           <div class="home-blog-card-img-container">
             <img
-              src="images/automated-semen-analyser-img-1024x878.jpg"
+              src="images/blog-img/blog-3.jpg"
               alt=""
             />
           </div>
           <div class="home-blog-card-content p-20">
             <h2 class="home-blog-card-heading">
-              Exploring the Science Behind IVF: How It Works?
+              The Role Of Gratitude In The Fertility Journey: Finding Joy In The Process
             </h2>
             <p class="home-blog-card-info">
-              Posted on March 25th, 2024 Do you want to grow your family but
-              can’t conceive? If so, you may wonder...
+              As you navigate your fertility journey, you’ll experience no shortage of emotions. One feeling you may...
             </p>
             <div class="home-blog-card-btn">
-              <a href="#" class="home-blog-card-read-more-btn">Read More</a>
+              <a href="https://pearlfertilityandivf.com/blog/2024/04/20/the-role-of-gratitude-in-the-fertility-journey-finding-joy-in-the-process/" class="home-blog-card-read-more-btn">Read More</a>
             </div>
           </div>
         </div>
